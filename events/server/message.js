@@ -16,7 +16,10 @@ module.exports = async (Discord, client, message) => {
             "Where's big brother?",
             "Makoto is Makoto, and I am me.",
             "Are there any Monokumas around here?",
-            "Amazing!"
+            "Amazing!",
+            "Me and Toko explored Towa City today.",
+            "Why do people ship me with Toko? It's kinda embarrassing.",
+            "D-Did you just poke me?"
         ];
 
         const pingedMessage = pingedMessages[Math.floor(Math.random() * pingedMessages.length)];
