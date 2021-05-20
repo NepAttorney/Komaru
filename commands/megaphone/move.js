@@ -6,7 +6,7 @@ module.exports = class MoveBulletCommand extends Commando.Command {
             name: "move",
             group: "megaphone",
             memberName: 'move',
-            description: "Shoot a move bullet on a user!"
+            description: "Shoot a move bullet towards a user!"
         })
     }
 

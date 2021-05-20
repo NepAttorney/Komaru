@@ -6,7 +6,7 @@ module.exports = class BreakBulletCommand extends Commando.Command {
             name: "break",
             group: "megaphone",
             memberName: "break",
-            description: "Shoot a break bullet on a user!"
+            description: "Shoot a break bullet towards a user!"
         })
     }
 

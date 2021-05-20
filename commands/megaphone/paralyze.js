@@ -6,7 +6,7 @@ module.exports = class ParalyzeBulleyCommand extends Commando.Command {
             name: "paralyze",
             group: "megaphone",
             memberName: "paralyze",
-            description: "Shoot a paralyze bullet on a user!"
+            description: "Shoot a paralyze bullet towards a user!"
         })
     }
 
