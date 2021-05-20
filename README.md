@@ -1,2 +1,2 @@
 # Komaru
-Komaru Discord Bot.
+Github repo for the Komaru Discord Bot.
